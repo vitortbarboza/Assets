@@ -1,0 +1,3 @@
+cd C:\Users\vitor\Documents\Udemy\Machine Learning Deployment with Streamlit
+
+streamlit run main.py
